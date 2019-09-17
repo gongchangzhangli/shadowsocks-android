@@ -22,7 +22,7 @@
 	url = https://github.com/ARMmbed/mbedtls
 [submodule "core/src/main/jni/pcre"]
 	path = core/src/main/jni/pcre
-	url = https://android.googlesource.com/platform/external/pcre
+	url = https://aosp.tuna.tsinghua.edu.cn/platform/external/pcre
 [submodule "core/src/main/jni/libsodium"]
 	path = core/src/main/jni/libsodium
 	url = https://github.com/jedisct1/libsodium.git
